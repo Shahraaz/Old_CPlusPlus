@@ -1,0 +1,9 @@
+# vsim test 
+# Start time: 20:13:52 on Oct 28,2018
+# ** Error (suppressible): (vsim-19) Failed to access library 'work' at "work".
+# No such file or directory. (errno = ENOENT)
+# Error loading design
+# End time: 20:13:52 on Oct 28,2018, Elapsed time: 0:00:00
+# Errors: 1, Warnings: 0
+# Break key hit
+# Break key hit

@@ -1,0 +1,10 @@
+https://www.spoj.com/problems/MAIN72/
+
+https://en.wikipedia.org/wiki/Subset_sum_problem
+
+https://www.geeksforgeeks.org/two-dimensional-segment-tree-sub-matrix-sum/
+
+https://www.spoj.com/problems/NDIVPHI/
+
+https://www.codechef.com/MAY13/problems/WITMATH/
+
